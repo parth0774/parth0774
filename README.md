@@ -22,7 +22,7 @@ I specialize in building end-to-end data pipelines, APIs, and deploying ML model
 ## 📧 Reach Me At
 - Email: [parth.patel0774@gmail.com](mailto:parth.patel0774@gmail.com)
 - LinkedIn: [Parth Patel](https://www.linkedin.com/in/parth-patel-051a5b245/)
-- Resume: [View Resume](resume.pdf)
+- Resume: [View Resume](Resume.pdf)
 
 ## ⚡ Fun Fact
 - I can debug a 500-line code error faster than I can decide what to order for lunch! 🍕🤔
