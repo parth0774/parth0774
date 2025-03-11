@@ -1,5 +1,5 @@
 # Hi 👋, I'm Parth Patel
-### Data Scientist & Software Developer | Turning messy datasets into actionable insights and caffeine into scalable solutions ☕💻
+### Data Scientist & Software Developer | Turning messy datasets into actionable insights and caffeine into scalable solutions ☕💻 
 
 <div align="center">
   <!-- GitHub Stats -->
